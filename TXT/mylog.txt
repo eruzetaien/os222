@@ -9,3 +9,12 @@ ZCZC W00 15 L41 TXT/mylog.txt related.
 ZCZC W00 120 L05 Quiz related including studying
 ZCZC W00 300 L10 Assignment #00
 ZCZC W00 2940 L84 Relax, Rest, Nap, and Sleep
+ZCZC W01 220 L02 ZOOM meetings related
+ZCZC W01 60 L01 SCELE/Discord related
+ZCZC W01 3 L05 Quiz related including studying
+ZCZC W01 60 L61 Virtual Box
+ZCZC W01 60 L62 Install Virtual Debian Guest
+ZCZC W01 300 L11 Assignment #01
+ZCZC W01 XXX L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 
+ZCZC W01 
