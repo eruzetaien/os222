@@ -2,8 +2,8 @@
 ---
 <span style="color:rgb(16, 97, 148); font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
-[LOG]((TXT/mylog.txt)) ---
-[GITHUB](https://eruzetaien.github.io/os222/)) ---
+[LOG](TXT/mylog.txt) ---
+[GITHUB](https://eruzetaien.github.io/os222/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) 
 <br>
 <hr>
