@@ -3,7 +3,7 @@
 <span style="color:rgb(16, 97, 148); font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 [LOG](TXT/mylog.txt) ---
-[GITHUB](https://eruzetaien.github.io/os222/) ---
+[GITHUB](https://github.com/eruzetaien/os222/) ---
 [LINKS](https://eruzetaien.github.io/os222/LINKS/) 
 <br>
 <hr>
