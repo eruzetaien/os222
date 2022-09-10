@@ -1,6 +1,6 @@
 ---
 ---
-<span style="color:rgb(16, 97, 148); font-weight:bold; font-size:larger;">By {{ site.author }}</span><h3> index.md</h3>
+<span style="color:rgb(16, 97, 148); font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
 [GITHUB]({{ site.githublink }}) ---
