@@ -4,7 +4,7 @@
 <br><br>
 [LOG](TXT/mylog.txt) ---
 [GITHUB](https://eruzetaien.github.io/os222/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) 
+[LINKS](https://eruzetaien.github.io/os222/LINKS/) 
 <br>
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.
