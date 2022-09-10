@@ -15,6 +15,4 @@ ZCZC W01 3 L05 Quiz related including studying
 ZCZC W01 60 L61 Virtual Box
 ZCZC W01 60 L62 Install Virtual Debian Guest
 ZCZC W01 300 L11 Assignment #01
-ZCZC W01 XXX L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W01 
-ZCZC W01 
+ZCZC W01 180 L06 References/Books/Documents/Browsing/GSGS related
