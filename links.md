@@ -11,7 +11,7 @@ permalink: LINKS/
 
 # LINKS
 
-1. [Youtube](https://en.wikipedia.org/wiki/1)<br>
+1. [Youtube](https://www.youtube.com/)<br>
 Youtube adalah platform yang menyediakan layanan video. Platform ini menjadi
 tempat yang cukup diminati untuk mencari ilmu atau informasi, khususnya untuk orang yang kurang gemar membaca seperti saya.
 
