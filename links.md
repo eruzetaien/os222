@@ -11,9 +11,10 @@ permalink: LINKS/
 
 # LINKS
 
-1. [Youtube](https://www.youtube.com/)<br>
-Youtube adalah platform yang menyediakan layanan video. Platform ini menjadi
-tempat yang cukup diminati untuk mencari ilmu atau informasi, khususnya untuk orang yang kurang gemar membaca seperti saya.
+1. [Public Key dan Private Key](https://pusatssl.com/public-key-private-key-enkripsi-asimetris-ssl-tls/)<br>
+Penjelasan mengenai cara kerja public dan private key dalam ekripsi asimetris. dan juga 
+perbedaan antara public dan private key. Penjelasan disajikan dengan ringkas dan dalam 
+Bahasa Indonesia.
 
 
 <br>
