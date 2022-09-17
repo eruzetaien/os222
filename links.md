@@ -16,6 +16,9 @@ Penjelasan mengenai cara kerja public dan private key dalam ekripsi asimetris. d
 perbedaan antara public dan private key. Penjelasan disajikan dengan ringkas dan dalam 
 Bahasa Indonesia.
 
+2. [Digital Signature dan Digital Certificate](https://www.aeteurope.com/wp-content/uploads/2017/06/digital-signature_certificate.png)<br>
+Bagan berupa peran digital signature dan certificate dalam proses autentikasi.
+
 
 <br>
 <hr>
