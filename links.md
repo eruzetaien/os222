@@ -28,6 +28,14 @@ Video berupa penjelasan dan kegunaan file system di directory linux
 5.[Clustered File System](https://www.weka.io/learn/clustered-file-system/) 
 CLustered file system adalah file system yang dibagikan dengan cara melakukan mounting ke beberapa server. website tersebut menjelaskan kelebihan dari clustered file system
  
+6.[Static vs Shared Libraries](https://www.youtube.com/watch?v=-vp9cFQCQCo)
+Menjelaskan secara ringkas mengenai perbedaan static dengan shared libraries beserta keuggulan tiap penggunaannya
+
+7.[Loading vs Linking](https://www.geeksforgeeks.org/difference-between-loading-and-linking/)
+Menjelaskan mengenai proses loading dan linking dalam mengeksekusi program dan juga perbedaan proses yang dilakukan secara static dengan dynamic
+
+8.[C Tutorial](https://www.w3schools.com/c/)
+Tutorial berisi dasar-dasar bahasa pemrograman C
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
