@@ -46,3 +46,15 @@ ZCZC W04 15 L41 TXT/mylog.txt related.
 ZCZC W04 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend
 ZCZC W04 10 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W04 45 L25 C-language including Make.
+ZCZC W05 220 L02 ZOOM meetings related
+ZCZC W05 5 L05 Quiz related including studying
+ZCZC W05 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 10 YouTube: watching OS related topics, etc
+ZCZC W05 90 L14 Assignment #04
+ZCZC W05 10 L43 TXT/myrank.tex related, including peer review
+ZCZC W05 10 L41 TXT/mylog.txt related.
+ZCZC W05 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend
+ZCZC W05 30 L25 C-language including Make.
+ZCZC W05 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+
