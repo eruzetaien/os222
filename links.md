@@ -61,6 +61,19 @@ Penjelaskan lengkap user-level dan kernel-level thread
 16. [Process vs Thread](https://www.javatpoint.com/process-vs-thread#:~:text=Thread-,A%20process%20is%20an%20instance%20of%20a%20program%20that%20is,are%20interdependent%20and%20share%20memory.) <br>
 Menjelaskan perbedaan antara process dengan thread
 
+17. [Critical Section](https://www.geeksforgeeks.org/g-fact-70/) <br>
+Penjelasan singkat mengenai masalah critical section ketika melakukan sinkronisasi, seperti multithreading. critical section terjadi karena ada thread berbeda berusaha mengakses resource yang sama secara bersamaan
+
+18. [Mutex and Semaphore] (https://afteracademy.com/blog/difference-between-mutex-and-semaphore-in-operating-system) <br>
+Salah satu usaha untuk mengatasi masalah critical section
+
+19. [Deadlock Prevention And Avoidanc](https://www.geeksforgeeks.org/deadlock-prevention/) <br>
+Deadlock adalah kondisi dimana suatu proses tidak bisa mendapatkan resource yang dibutuhkan karena ditahan oleh resource lain yang mengalami kondisi yang sama
+
+20. [Dining Philosophers Problem](https://www.scaler.com/topics/operating-system/dining-philosophers-problem-in-os/) <br>
+Merupakan salah satu masalah yang dapat menimbulkan deadlock
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
