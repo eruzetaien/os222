@@ -73,6 +73,10 @@ Deadlock adalah kondisi dimana suatu proses tidak bisa mendapatkan resource yang
 20. [Dining Philosophers Problem](https://www.scaler.com/topics/operating-system/dining-philosophers-problem-in-os/) <br>
 Merupakan salah satu masalah yang dapat menimbulkan deadlock
 
+21. [CPU Scheduling in Operating Systems] (https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) <br>
+Menerangkan konsep CPU scheduling dengan sangat lengkap cukup untuk merangkum keseluruhan materi week 8.
+
+
 
 <br>
 <hr>

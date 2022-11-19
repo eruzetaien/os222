@@ -80,3 +80,14 @@ ZCZC W07 45 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend
 ZCZC W07 60 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W07 30 L64 Helping a friend (OS related problem)
 ZCZC W07 15 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W08 220 L00 General, etc.
+ZCZC W08 10 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 630 L18 Assignment #08
+ZCZC W08 10 L43 TXT/myrank.tex related, including peer review
+ZCZC W08 10 L41 TXT/mylog.txt related.
+ZCZC W08 90 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend
+ZCZC W08 10 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W08 30 L64 Helping a friend (OS related problem)
+ZCZC W08 15 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+
