@@ -64,7 +64,7 @@ Menjelaskan perbedaan antara process dengan thread
 17. [Critical Section](https://www.geeksforgeeks.org/g-fact-70/) <br>
 Penjelasan singkat mengenai masalah critical section ketika melakukan sinkronisasi, seperti multithreading. critical section terjadi karena ada thread berbeda berusaha mengakses resource yang sama secara bersamaan
 
-18. [Mutex and Semaphore] (https://afteracademy.com/blog/difference-between-mutex-and-semaphore-in-operating-system) <br>
+18. [Mutex and Semaphore](https://afteracademy.com/blog/difference-between-mutex-and-semaphore-in-operating-system) <br>
 Salah satu usaha untuk mengatasi masalah critical section
 
 19. [Deadlock Prevention And Avoidanc](https://www.geeksforgeeks.org/deadlock-prevention/) <br>
