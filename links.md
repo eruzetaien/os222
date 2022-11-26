@@ -73,10 +73,19 @@ Deadlock adalah kondisi dimana suatu proses tidak bisa mendapatkan resource yang
 20. [Dining Philosophers Problem](https://www.scaler.com/topics/operating-system/dining-philosophers-problem-in-os/) <br>
 Merupakan salah satu masalah yang dapat menimbulkan deadlock
 
-21. [CPU Scheduling in Operating Systems] (https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) <br>
+21. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) <br>
 Menerangkan konsep CPU scheduling dengan sangat lengkap cukup untuk merangkum keseluruhan materi week 8.
 
+22. [Disk Scheduling](https://www.javatpoint.com/os-disk-scheduling) <br>
+Disk Scheduling adalah upaya sistem operasi untuk meminimalkan access time dan memaksimalkan throughput
 
+23. [Swap-Space Management](https://www.geeksforgeeks.org/swap-space-management-in-operating-system/) <br>
+Swapping adalah teknik untuk memindahka process dari main memory ke secondary memory hal ini dilakukan ketika kapasitas main memory tidak cukup untuk menampung semua process yang ada.
+
+24.[RAID (Redundant Arrays of Independent Disks)](https://www.javatpoint.com/what-is-raid#:~:text=A%20RAID%20system%20consists%20of,array%20are%20called%20array%20members.) <br>
+RAID adalah sistem yang terdiri dari 2 atau lebih disk drives yang bekerja secara bersamaan. Tujuan dari RAID adalah untuk meningkatkan aspek data performance, reliability, dan availability. 3 fungsi utama dari RAID adalah striping, parity checking, dan mirroring.
+
+ 
 
 <br>
 <hr>
