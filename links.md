@@ -52,7 +52,7 @@ Menjelaskan perbedaan VRAM dan RAM dan alasan mengapa graphic card dapat meningk
 13. [Multi-threaded Processes](https://www.tutorialspoint.com/single-threaded-and-multi-threaded-processes)<br>
 Menjelaskan perbedaan user-level thread dan kernel thread, serta keuntungan dan tantangan dalam menggunakan Multithreaded Processes
 
-14. [OS Context Switching](https://www.youtube.com/watch?v=DKmBRl8j3Ak <br>
+14. [OS Context Switching](https://www.youtube.com/watch?v=DKmBRl8j3Ak) <br>
 Video yang menjelaskan konsep context switching, sebuah konsep yang dapat membuat ilusi seolah lebih dari satu process berjalan bersamaan
 
 15. [User Level and Kernel Level Thread](https://alldifferences.net/difference-between-user-level-and-kernel-level-thread/) <br>
