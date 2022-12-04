@@ -85,6 +85,12 @@ Swapping adalah teknik untuk memindahka process dari main memory ke secondary me
 24.[RAID (Redundant Arrays of Independent Disks)](https://www.javatpoint.com/what-is-raid#:~:text=A%20RAID%20system%20consists%20of,array%20are%20called%20array%20members.) <br>
 RAID adalah sistem yang terdiri dari 2 atau lebih disk drives yang bekerja secara bersamaan. Tujuan dari RAID adalah untuk meningkatkan aspek data performance, reliability, dan availability. 3 fungsi utama dari RAID adalah striping, parity checking, dan mirroring.
 
+25.[Memory mapped I/O and Isolated I/O](https://www.geeksforgeeks.org/memory-mapped-i-o-and-isolated-i-o/) <br>
+Penjelasan singkat bagaiman CPU berkomunikasi dengan memory dan IO.
+
+26.[Socket Programming](https://www.geeksforgeeks.org/socket-programming-cc/)<br>
+Socket adalah cara bagaimana dua program berinteraksi dalam suatu jaringan yang sama.
+
  
 
 <br>

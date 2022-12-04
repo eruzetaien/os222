@@ -100,3 +100,13 @@ ZCZC W09 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend
 ZCZC W09 10 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W09 15 L64 Helping a friend (OS related problem)
 ZCZC W09 90 L05 Quiz related including studying
+ZCZC W10 50 L00 General, etc.
+ZCZC W10 170 L07 Demo related
+ZCZC W10 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W10 480 L20 Assignment #10
+ZCZC W10 10 L43 TXT/myrank.tex related, including peer review
+ZCZC W10 10 L41 TXT/mylog.txt related.
+ZCZC W10 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend
+ZCZC W10 15 L64 Helping a friend (OS related problem)
+ZCZC W10 30 L60 Install/Reinstall/Restore/Backup Desktop or Laptop
